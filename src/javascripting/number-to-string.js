@@ -1,1 +1,3 @@
-// TODO: Replace this with your solution.
+const n = 128;
+n.toString()
+console.log(n);
