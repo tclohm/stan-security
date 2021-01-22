@@ -10,7 +10,10 @@
   "bugs": {
     "url": "https://github.com/stanford-web-security/discussion/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bl": "^4.0.3",
+    "through2-map": "^3.0.0"
+  },
   "devDependencies": {
     "snazzy": "^8.0.0",
     "standard": "^14.2.0",
