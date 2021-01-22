@@ -2,14 +2,14 @@
 
 ## Roughly how long did you spend on this assignment?
 
-TODO: Replace this with your response
+2 days. youlearnnode was the longest because of the research
 
 ## What was your favorite part of this assignment and why?
 
-TODO: Replace this with your response
+i loved the terminal interactive workshop
 
 ## What was your least favorite part of this assignment and why?
 
-TODO: Replace this with your response
+so much research for some of these problems. node api. meh.
 
 ## Any other feedback for this assignment? (optional)
