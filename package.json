@@ -12,7 +12,15 @@
   },
   "dependencies": {
     "bl": "^4.0.3",
-    "through2-map": "^3.0.0"
+    "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
+    "split2": "^3.2.2",
+    "stream-combiner": "^0.2.2",
+    "tar": "^6.1.0",
+    "through2": "^4.0.2",
+    "through2-map": "^3.0.0",
+    "trumpet": "^1.7.2",
+    "ws": "^7.4.2"
   },
   "devDependencies": {
     "snazzy": "^8.0.0",
